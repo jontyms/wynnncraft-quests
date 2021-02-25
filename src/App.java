@@ -46,21 +46,25 @@ public class App {
             System.out.println( wikiArray.get(i) );
     }*/
 
+    ArrayList<String> wikiArray = new ArrayList<String>();
 
     while(full.hasNextLine()){
         String wikiString = full.nextLine();
         String[] strParts2 = wikiString.split(",");
+        ArrayList<String> tempArray = 
+        new ArrayList<String>( Arrays.asList(strParts2) );
+        wikiArray.add(tempArray.get(0));
+        wikiArray.add(tempArray.get(1));
     }
 
-    ArrayList<String> wikiArray = 
-        new ArrayList<String>( Arrays.asList(strParts2) );
+    
 
     ArrayList<String> undoneQuests = new ArrayList<>();
 
-    for(int i = 0; i < wikiArray.size(); i++){
+    for(int i = 0; i < wikiArray.size(); i = i+2){
         if(!completedQuests.contains(wikiArray.get(i))){
-            if(Integer.valueOf(wikiArray.get(i+1)) >= level){
-            undoneQuests.add(wikiArray.get(i)+","+ wikiArray.get(i));}
+            if(Integer.valueOf(wikiArray.get(i+1)) <= level){
+            undoneQuests.add(wikiArray.get(i)+","+ wikiArray.get(i+1));}
 
         }
 
@@ -68,6 +72,7 @@ public class App {
 
     }
 
+   
     System.out.println("Print Arraylist using for loop3");
     for(int i=0; i < undoneQuests.size(); i++){
         System.out.println( undoneQuests.get(i) );
