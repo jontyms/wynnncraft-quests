@@ -10,6 +10,7 @@ public class App {
         
         Scanner completed = new Scanner(Paths.get("compeltedquests.csv"));
         Scanner wiki = new Scanner(Paths.get("wikiquests.csv"));
+        Scanner full = new Scanner(Paths.get("fullquestsheet.csv"));
         Scanner scan = new Scanner(System.in);
         System.out.print("level?");
         int level = Integer.valueOf(scan.nextLine());
@@ -28,8 +29,8 @@ public class App {
             System.out.println( completedQuests.get(i) );
     }*/
 
-
-
+//not in use
+/*
     String wikiString = "hi";
         while (wiki.hasNextLine()) {
             wikiString=(wiki.nextLine());
@@ -44,6 +45,9 @@ public class App {
         for(int i=0; i < wikiArray.size(); i++){
             System.out.println( wikiArray.get(i) );
     }*/
+
+
+    while
 
     ArrayList<String> undoneQuests = new ArrayList<>();
 
