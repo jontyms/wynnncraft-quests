@@ -1,203 +1,135 @@
-King's Recruit,1,,,,,Caravan Driver,Ragni Outskirts,Wynn,Long,Normal,6,35,"1 Ragni Teleport Scroll
- Access to the Province of Wynn"
-Enzan's Brother,,,,,,Enzan,Ragni,Wynn,Short,Normal,0,100,First Steps
-Poisoning the Pest,2,,,,,Farmer Cevalus,Ragni,Wynn,Medium,Normal,25,145,Access to Farmer Cevalus's Farm
-Cook Assistant,3,,,,,The Cook,Ragni,Wynn,Short,Normal,28,200,"1 Royal Cake Slice
- 1 Waist Apron"
-Infested Plants,4,,,,,Ope,Nivla Woods,Wynn,Short,Normal,5,270,1 Cleaned Saccharum
-Tunnel Trouble,5,,,,,Captain Fenor,Detlas,Wynn,Long,Normal,55,300,Access to fast travel between Ragni and Detlas.
-The Sewers of Ragni,5,,,,,Jenprest,Decrepit Sewers,Wynn,Medium,Dungeon,0,350,"1 Thoracic
- 1 Decrepit Sewers Dungeon Key
- Access to the Decrepit Sewers Dungeon"
-Underwater,8,,,,1,Omango,Coastal Trail,Wynn,Medium,Normal,32,550,"50 Fishing Experience Points
- 1 Breathing Helmet
- 1 Treasure Boots
- 1 Gathering Rod T1"
-Elemental Exercise,10,,,,,Ragon,Nivla Woods,Wynn,Medium,Normal,64,850,"Ragon's Bracelet
- 1 Vibrant Augment"
-Mushroom Man,12,,,,,Yahya,Nivla Woods,Wynn,Medium,Normal,128,1000,Yahya's Stained Bowl
-Arachnids' Ascent,14,,,,,Captain Enduyn,Infested Pit,Wynn,Medium,Dungeon,0,850,"1 Infested Pit Dungeon Key
- Access to the Infested Pit Dungeon"
-Creeper Infiltration,14,,,,,Thomas,Pigmen's Ravines,Wynn,Medium,Normal,64,1400,1 Creeper Mask
-Deja Vu,14,,,,,Asher,Time Valley,Wynn,Medium,Normal,28,1700,1 Familiar Essence
-Potion Making,15,,,,,The Assistant,Essren's Hut,Wynn,Medium,Normal,0,1600,"Essren's Coat
- 1 Weakening Catalyst"
-Maltics Well,18,,,,,Rynend,Maltic,Wynn,Short,Normal,0,2000,1 Maltic's Recommendation Letter
-Grave Digger,20,,,,,Sayleros,Detlas,Wynn,Medium,Normal,128,3300,"1 Sayleros' Brother's Ashes
- Access to the Saint's Row Graveyard"
-Macabre Masquerade Hallowynn 2014,21,,,,,Mask Salesman,Near Mount Wynn,Wynn,Short,Event,192,10000,
-Studying the Corrupt,21,,,,,Pottur,Lost Sanctuary,Wynn,Medium,Dungeon,0,3600,"1 Lost Sanctuary Dungeon Key
- Access to the Lost Sanctuary Dungeon"
-Pit of the Dead,23,,,,,Merloni,Pit of the Dead,Wynn,Short,Normal,0,2675,Skeletal Legs
-Cluck Cluck,23,,,,,Nohno,Rooster Island,Wynn,Short,Normal,0,2800,Cluckles' Favourite Feather
-The Dark Descent,24,,,,,General Graken,Underworld Crypt,Wynn,Long,Dungeon,0,2400,"Dark Diadem
- Underworld Crypt Dungeon Key
- Access to the Underworld Crypt Dungeon"
-Dwelling Walls,24,,,,,Leucsaa,Nemract,Wynn,Medium,Normal,128,3650,
-Recover the Past,25,,,,,Dr. Picard,Tower of Amnesia,Wynn,Long,Normal,0,6000,"1 Shattered Memory Shard
- 1 Reset Scroll"
-Lost Tower,26,,,,,Laen,Nemract,Wynn,Short,Normal,64,6500,
-The Corrupted Village,26,,,,,Orikal,Corrupted Village,Wynn,Long,Normal,136,4800,Corrupted Potato
-The Mercenary,28,,,,,Mylo,Nemract,Wynn,Medium,Normal,384,10000,1 Vindicator
-Misadventure on the Sea,28,,,,,Barman,Nemract,Wynn,Long,Normal,0,8500,"4 Nemract Boat Passes
- 4 Selchar Boat Passes"
-Craftmas Chaos,30,,,,,Tom,Selchar,Ocean,Long,Event,640,12000,
-Green Gloop,31,,,,,Eluzterp,Slime Cave,Wynn,Medium,Normal,192,9500,Access to the Glassblowing Merchant
-A Sandy Scandal,32,,,,,Almuj Bank Guard,Almuj,Wynn,Long,Normal,128,22000,Access to the Almuj Bank
-Kingdom of Sand,33,,,,,Lanu,Sand-Swept Tomb,Wynn,Long,Dungeon,192,10000,"1 Sand-Swept Tomb Key
- Access to the Sand-Swept Tomb dungeon"
-Meaningful Holiday,33,,,,,Haily,Almuj,Wynn,Long,Event,128,15000,
-Stable Story,34,,,,,Enkser,Ternaves,Wynn,Short,Normal,0,9000,"1 Brown Horse
- Access to Ternaves' Horse Shop"
-Tribal Aggression,35,,,,,Caras,Mesa,Wynn,Medium,Normal,0,24000,42 Gold Ingot
-WynnExcavation Site A,35,,,,,Excavator Vade,Desert,Wynn,Medium,Normal,0,15000,1 Yellow Crystal Shard
-Wrath of the Mummy,36,,,,,Ormrod,Almuj,Wynn,Medium,Normal,128,16600,"Mummy's Rag
- The Mummy's Bandage"
-Canyon Condor,38,,,,,Svin,Rymek,Wynn,Medium,Normal,640,21000,Access to the Mesa Elevators
-Pirate's Trove,39,,,,,Damiral,Llevigar Port,Gavel,Medium,Normal,168,26000,
-Tower of Ascension,40,,,,,Ankou,Tower of Ascension,Wynn,Long,Special,32768,925000 Max (see Tips),Champion Armour
-Ice Nations,40,,,,,Adigard,Icy Islands,Wynn,Medium,Normal,256,25000,"1 Climbing Helmet
- Access to the Dujgon Blacksmith"
-Heart of Llevigar,41,,,,,Zenam,Llevigar,Gavel,Long,Normal,224,24500,Generator Amulet
-Star Thief,42,,,,,Agent,Llevigar Plains,Gavel,Medium,Normal,256,40000,
-Clearing the Camps,42,,,,,Captain Kymer,Llevigar Plains,Gavel,Short,Normal,320,23000,
-Underice,43,,,,,Fredris,Nesaak,Wynn,Medium,Normal,128,34000,Gernald's Amulet / Calamaro's Token
-Fate of the Fallen,43,,,,,Telvu,Ice Barrows,Wynn,Long,Dungeon,0,20000,"1 Avalanche
- 1 Ice Barrows Dungeon Key
- Access to the Ice Barrows Dungeon"
-Blazing Retribution,44,,,,,Piere,Llevigar,Gavel,Medium,Normal,512,38000,Hide of Gregg'r
-Bob's Lost Soul,45,,,,,Tarod,Nesaak,Wynn,Long,Normal,0,55000,"Bob's Battle Chestplate
- Access to Bob's Tomb
- Bob's Crushed Soul"
-Wynn Excavation Site B,46,,,,,Excavator Lykron,Below path towards Haunted Mansion,Wynn,Medium,Normal,1536,50000,1 Purple Crystal Shard
-Frost Bite,48,,,,,Eppo,Ice Canyon,Wynn,Long,Normal,640,61000,Glaciate
-The House of Twain,49,,,,,Twendle,The House of Twain,Wynn,Short,Normal,4096,45000,
-Rise of the Quartron,49,15,,,,Manager Nasea,Karoc Quarry,Gavel,Long,Normal,1408,75000,"1800 Mining Experience Points
- Quartron's Eye
- Acess to Karoc Mine Annex"
-An Iron Heart Part I,49,,,,,Duvale,Llevigar Plains,Gavel,Medium,Normal,128,42000,Mechanical Reactor
-A Grave Mistake,50,,,,,Alem,The House of Twain,Wynn,Medium,Event,640,66666,
-The Maiden Tower,51,,,,,Sherk,Olux Swamp,Gavel,Medium,Normal,640,77500,
-Corrupted Betrayal,52,,,,,Slykaar,Undergrowth Ruins,Wynn,Long,Dungeon,1024,87725,"1 Undergrowth Ruins Dungeon Key
- Access to the Undergrowth Ruins Dungeon"
-Jungle Fever,52,,,,,Worid,Jungle,Wynn,Medium,Normal,4096,86250,1 Undergrowth Ruins Key
-Crop Failure,52,,,20,,Anast,Olux,Gavel,Medium,Normal,640,57500,
-Master Piece,53,,,,,Caissop,Olux Swamp,Gavel,Medium,Normal,0,85000,1 Caissop's Master Piece
-Death Whistle,53,,,,,Voer,Olux Swamp,Gavel,Medium,Normal,,95000,"1 Death Whistle Leaf 
- 3 Cyclone Blue Leaves 
- 3 Pink Pelulite 
- 5 Pink Pelute"
-Realm of Light I - The Worm Holes,54,,,,,Malo,Olux Swamp,Gavel,Medium,Normal,768,100000,"Access to Nest of the Grootslangs
- 6 Az Runes
- Access to Mastery Tomes"
-The Shadow of the Beast,54,20,20,,20,Dereg,Olux Swamp,Gavel,Long,Normal,512,140000,1 Crushed Bigfoot Bone
-WynnExcavation Site C,55,,,,,Excavator Placardus,Volcanic Island,Ocean,Long,Normal,0,150000,Red Crystal Shard
-Zhight Island,55,,,,,Zhight,Zhight Island,Ocean,Medium,Normal,0,95000,"Access to Zhight Currency Exchange
- Access to Zhight Treasure Tour
- 16 Zhight Money"
-The Passage,57,,,,,Wirt,Troms,Wynn,Short,Normal,256,140000,Access to the The Passage
-An Iron Heart Part II,58,,,,,Detective Hart,Olux Swamp,Gavel,Long,Normal,512 / 768,160000,Greaves of Honor / Shameful Greaves
-The Order of the Grook,59,,,,,Seasum,Mage Island,Ocean,Long,Normal,0,242500,"Access to The Nexus
- Draoi Fair /
-Dragon's Eye Bracelet /
-Renda Langit"
-Beneath the Depths,60,,,,,Javier,Pirate Cove,Ocean,Medium,Normal,1,185000,"Abysso Galoshes
- Galleon's Graveyard Key"
-Redbeard's Booty,61,,,,,Marston,Galleon's Graveyard,Ocean,Medium,Dungeon,0,180000,"1 Galleon's Graveyard Key
- 1 Golden Pirate Fish
- Access to the Galleon's Graveyard Dungeon"
-Reclaiming the House,61,,,,,Elphaba,Olux Swamp,Gavel,Long,Normal,1024,250000,
-Lost in the Jungle,62,,,,,Gracen,Jungle Village,Wynn,Medium,Normal,0,225000,"1 Gemstone Dust
- 3 Jungle Jet Shards
- Access to Gracen's house"
-Realm of Light II - Taproot,62,,,,,Lari,Dark Forest,Gavel,Long,Normal,1600,275000,Photon
-Out of My Mind,63,,,,,Prentiss,Troms,Wynn,Medium,Normal,1024,300000,Troms Kid Badge
-Realm of Light III - A Headless History,64,,,,,Hans,Dark Forest,Gavel,Long,Normal,0,385000,Cloak of Luminosity
-Lost Royalty,65,,,,,Yavlis,Troms,Wynn,Medium,Normal,2048,290000,
-Lost Soles,66,,,,,Ferndor,Dernel Jungle,Wynn,Long,Normal,1152,352000,Sodeta Boots
-Memory Paranoia,67,,,,,Atisun,Caritat Mansion,Gavel,Long,Normal,1536,375000,Ring of Generosity
-From the Mountains,67,,,,,Arnod,Pre-Light Forest,Gavel,Long,Normal,0,390000,Fire Wire
-Temple of the Legends,68,,,,,Kelight,Temple of the Legends,Wynn,Long,Normal,0,550000,"Access to the Temple of the Legends
- Purified Helmet of the Legends"
-Grand Youth,69,,,,,Monte,Dernel Jungle,Wynn,Medium,Normal,1024,425000,
-Lazarus Pit,69,,,,,Burtur,Gelibord,Gavel,Long,Normal,1024,500000,Lazarus' Brace
-Haven Antiquity,70,,,,,Cinfras,Dead Island,Ocean,Medium,Normal,1048,300000,
-WynnExcavation Site D,70,,,,,Royal Advisor Carlos,Troms,Wynn,Long,Normal,16384,600000,1 Royal Token of Gratitude
-Shattered Minds,70,,,,,Likeru,Efilim,Gavel,Long,Normal,2560,300000,Psychomend Vest
-Realm of Light IV - Finding the Light,71,,,,,Lari,Light Forest,Gavel,Long,Normal,0,675000,"Clearsight Spectacles
- Access to Light Portal"
-Lexdale Witch Trials,72,,,,,[[The Mayor]],Lexdale,Gavel,Long,Normal,4096,650000,Access to the Lexdale Merchants
-Forbidden Prison,72,,,,,Merchant,Forbidden Prison,Gavel,Long,Normal,0,740000,
-Troubled Tribesmen,73,,,,,Ka L'argwit,Dernel Jungle,Wynn,Medium,Normal,2048,500000,Access to the Dernel Tribe Shop in Entamis Village
-Murder Mystery,73,,,,,Captain Lorias,Cinfras Suburbs,Gavel,Medium,Normal,3072,350000,1 Detective's Ring
-Reincarnation,74,,,,,Batelu,Bob's Tomb,Wynn,Long,Normal,0,750000,1 Corrupted Treasure
-Aldorei's Secret Part I,74,,,,,Elf Guard,Aldorei Valley,Gavel,Long,Normal,0 / 8192,512500,"Elven Medallion / Receipt
- Access to Aldorei Town"
-Acquiring Credentials,74,,,,,Doan,Letvus Airbase,Gavel,Long,Normal,768,300000,"1 Gavellian Passport
- Access to the Letvus Elevator"
-Flight in Distress,75,,,,,Passenger Controllant,Letvus Airbase,Gavel,Long,Normal,0,750000,"Ring of Rubies
- Access to fast travel between Cinfras and Detlas"
-The Ultimate Weapon,75,,,,,Dodegar Bandysnoot,Light Forest,Gavel,Medium,Normal,0,450000,1 Dodegar's Ultimate Weapon
-The Bigger Picture,76,,,,,Psilo,Mushroom Village,Gavel,Medium,Normal,1920,500000,"Gnome's Ring
- Giant's Ring"
-Purple and Blue,77,,,,,Korun,Gylia Plains,Gavel,Long,Normal,2048,500000,Restored Ancient Helmet
-The Hunger of Gerts Part 1,77,,,,,Cikal,Gylia Plains,Gavel,Long,Normal,4864,675000,
-Aldorei's Secret Part II,78,,,,,Legolus,Aldorei Town,Gavel,Long,Normal,10240 / 0,450000,Kaerynn's Armour / Elves' Disappointment
-The Hunger of Gerts Part 2,78,,,,,Gerten Chief Lobo,Gylia Plains,Gavel,Long,Normal,0,730000,Gerten Ritual Mask
-Fallen Delivery,79,,,,,Bricot,Gylia Plains,Gavel,Long,Normal,2048,1300000,Access to Cinfras Scroll Merchant
-Realm of Light V - The Realm of Light,79,,,,,Lari,The Realm of Light,Gavel,Long,Normal,0,1300000,"Double Vision
- Access to Orphion's Nexus of Light"
-The Qira Hive,80,,,,,Yansur,The Qira Hive,Gavel,Long,Special,0,6250000 Max (see Tips),1 Master Voucher
-General's Orders,80,,,,,Private Tylas,Canyon of the Lost,Gavel,Long,Normal,0,1300000,Changeling's Chestplate
-From the Bottom,80,,,,,Nakoba,Thanos Bazaar,Gavel,Long,Normal,4096,700000,"1 Troll Hair
- 64 Platinum Ingots"
-???,80,,,,,???,Gavel,Gavel,Medium,Normal,6144,1400000,"Altum Spatium
- Cosmic Armour"
-The Thanos Vaults,81,,,,,Dolem,Thanos,Gavel,Medium,Normal,4096,775000,
-The Belly of the Beast,82,,,,,King Burtan,Thanos/Ozoth's Spire,Gavel,Medium,Normal,2048,1250000,Dragon Hide Plate
-A Marauder's Dues,83,,,,,Norsten,Canyon of the Lost,Gavel,Medium,Normal,8192,1375000,
-The Envoy Part I,83,,,,,Olivin,"Selchar, Corkus Province",Ocean,Long,Normal,9152,1750000,"1 Maxie's House Key
- Access to the C.S.S. Wavebreaker"
-The Canyon Guides,84,,,,,Gana,The entrance of Bantisu Air Temple,Gavel,Medium,Normal,2048,1450000,
-The Canary Calls,85,,,,,Grenot,Thesead mines,Gavel,Medium,Normal,2048,1575000,
-The Lost,85,,,,,Dejol,Canyon of the Lost,Gavel,Medium,Normal,2048,1575000,Canyon Chart
-Cowfusion,86,,,,,Ranol,Canyon of the Lost,Gavel,Long,Normal,4096,2300000,"Veekhat's Udders
- Veekhat's Horns"
-Desperate Metal,86,,,,,Phinas,Corkus Shore,Corkus,Medium,Normal,2048,1580000,Mech Core
-Beyond the Grave,87,,,,,Irlok,Canyon of the Lost,Gavel,Medium,Normal,8192,2100000,Raging Wind
-Mixed Feelings,87,,,,,Javen,Corkus Docks,Corkus,Long,Normal,2048,1750000,
-The Hidden City,88,,,,,Narder,Thesead,Gavel,Long,Normal,4096,2700000,Access to fast travel between Thesead and Eltom
-The Envoy Part II,89,,,,,Security Bot N4T17,Corkus City,Corkus,Long,Dungeon,0,3050000,"Electro Mage's Boots
- 1 Fallen Factory Key
- Access to the hot air balloon fast travel between Corkus City and Kandon-Beda
- Access to the Fallen Factory Dungeon"
-Enter the Dojo,89,,,,,Sensei Miyagi,Sakura Dojo,Gavel,Long,Normal,0,2900000,Master's Gi
-Fantastic Voyage,90,,,,,Relend,Jofash Docks,Ocean,Long,Normal,6144,3100000,Pendant of Prosperity
-Dwarves and Doguns Part I,91,,,,,Lozeg,Rodoroc,Gavel,Long,Normal,0,3300000,"1 Dogun Badge of Trust
- Access to the Molten Heights elevators"
-The Feathers Fly Part I,91,,,,,Ava,Avos Territory,Corkus,Long,Normal,0,2900000,"20 Bipedal Springs
- 3 Golden Avia Feathers"
-Dwarves and Doguns Part II,92,,,,,Dogun Chieftain,Dogun's Retreat,Gavel,Long,Normal,0,3500000,"1 Letter to Korzim
- Access to the Thanos-Rodoroc trading tunnel"
-The Feathers Fly Part II,93,,,,,Ava,Corkus City,Corkus,Long,Normal,12288,3300000,"16 Bipedal Springs
- 8 Speed Surge
- 4 Corkian Amplifier II
- Access to The Workshop"
-Dwarves and Doguns Part III,93,,,,,Korzim,Molten Heights,Gavel,Long,Normal,0,4000000,"Staff of True Ice
- Amulet of Fire Resistance
- Access to the Maex Resource Mine"
-Dwarves and Doguns Part IV,94,,,,,Korzim,Molten Heights,Gavel,Long,Normal,20480,6000000,Access to the Ingredient shop in Maex
-One Thousand Meters Under,95,,,,,Help Wanted,Ahmsord,Gavel,Long,Normal,8192,5500000,"Access to The Void elevators
- Ominous Wind"
-Recipe For Disaster,96,,,,,Chef Hamsey,Ahmsord,Gavel,Medium,Normal,4096,4200000,"Chef Hamsey's Apron (Brie)
- Smoldering Apron (Kale)
- Sky Chef's Apron (Frank)"
-The Fortuneteller,97,,,,,Jill,Kandon-Beda,Gavel,Medium,Normal,0,3900000,Wealth or Knowledge
-Royal Trials,98,,,,,Skyraider Guard,Sky Islands,Gavel,Long,Normal,4096,7270000,The Queen's Headpiece
-The Hero of Gavel,99,,,,,Scavenger Hunt Collector,Ahmsord,Gavel,Long,Normal,20480,5500000,
-The Olmic Rune,100,,,,,Abandoned Drill,Olmic Ruined City,Silent Expanse,Medium,Normal,0,5800000,Access to Tol Altar
-A Journey Beyond,100,,,,,Elphaba,Detlas,Wynn,Long,Normal,12288,6000000,
-A Journey Further,101,,,,,Aledar,Lutho,Silent Expanse,Long,Dungeon,20480,7500000,Access to the Eldritch Outlook Dungeon
-Point of No Return,102,,,,,Lutho Citizen,Lutho,Silent Expanse,Long,Normal,8192,7000000,
-A Hunter's Calling,103,,,,,??? (A Hunter's Calling),Portal to Dern,Silent Expanse,Long,Normal,0,10008000,"1 Corrupted Soul Token
- Hunted Mode"
+King's Recruit,0,,,,,Caravan Driver,Ragni Outskirts,Wynn,Long,Normal,6,35
+Enzan's Brother,0,,,,,Enzan,Ragni,Wynn,Short,Normal,0,100
+Poisoning the Pest,2,,,,,Farmer Cevalus,Ragni,Wynn,Medium,Normal,25,145
+Cook Assistant,3,,,,,The Cook,Ragni,Wynn,Short,Normal,28,200
+Infested Plants,4,,,,,Ope,Nivla Woods,Wynn,Short,Normal,5,270
+Tunnel Trouble,5,,,,,Captain Fenor,Detlas,Wynn,Long,Normal,55,300
+The Sewers of Ragni,5,,,,,Jenprest,Decrepit Sewers,Wynn,Medium,Dungeon,0,350
+Underwater,8,,,,1,Omango,Coastal Trail,Wynn,Medium,Normal,32,550
+Elemental Exercise,10,,,,,Ragon,Nivla Woods,Wynn,Medium,Normal,64,850
+Mushroom Man,12,,,,,Yahya,Nivla Woods,Wynn,Medium,Normal,128,1000
+Arachnids' Ascent,14,,,,,Captain Enduyn,Infested Pit,Wynn,Medium,Dungeon,0,850
+Creeper Infiltration,14,,,,,Thomas,Pigmen's Ravines,Wynn,Medium,Normal,64,1400
+Deja Vu,14,,,,,Asher,Time Valley,Wynn,Medium,Normal,28,1700
+Potion Making,15,,,,,The Assistant,Essren's Hut,Wynn,Medium,Normal,0,1600
+Maltics Well,18,,,,,Rynend,Maltic,Wynn,Short,Normal,0,2000
+Grave Digger,20,,,,,Sayleros,Detlas,Wynn,Medium,Normal,128,3300
+Macabre Masquerade Hallowynn 2014,21,,,,,Mask Salesman,Near Mount Wynn,Wynn,Short,Event,192,10000
+Studying the Corrupt,21,,,,,Pottur,Lost Sanctuary,Wynn,Medium,Dungeon,0,3600
+Pit of the Dead,23,,,,,Merloni,Pit of the Dead,Wynn,Short,Normal,0,2675
+Cluck Cluck,23,,,,,Nohno,Rooster Island,Wynn,Short,Normal,0,2800
+The Dark Descent,24,,,,,General Graken,Underworld Crypt,Wynn,Long,Dungeon,0,2400
+Dwelling Walls,24,,,,,Leucsaa,Nemract,Wynn,Medium,Normal,128,3650
+Recover the Past,25,,,,,Dr. Picard,Tower of Amnesia,Wynn,Long,Normal,0,6000
+Lost Tower,26,,,,,Laen,Nemract,Wynn,Short,Normal,64,6500
+The Corrupted Village,26,,,,,Orikal,Corrupted Village,Wynn,Long,Normal,136,4800
+The Mercenary,28,,,,,Mylo,Nemract,Wynn,Medium,Normal,384,10000
+Misadventure on the Sea,28,,,,,Barman,Nemract,Wynn,Long,Normal,0,8500
+Craftmas Chaos,30,,,,,Tom,Selchar,Ocean,Long,Event,640,12000
+Green Gloop,31,,,,,Eluzterp,Slime Cave,Wynn,Medium,Normal,192,9500
+A Sandy Scandal,32,,,,,Almuj Bank Guard,Almuj,Wynn,Long,Normal,128,22000
+Kingdom of Sand,33,,,,,Lanu,Sand-Swept Tomb,Wynn,Long,Dungeon,192,10000
+Meaningful Holiday,33,,,,,Haily,Almuj,Wynn,Long,Event,128,15000
+Stable Story,34,,,,,Enkser,Ternaves,Wynn,Short,Normal,0,9000
+Tribal Aggression,35,,,,,Caras,Mesa,Wynn,Medium,Normal,0,24000
+WynnExcavation Site A,35,,,,,Excavator Vade,Desert,Wynn,Medium,Normal,0,15000
+Wrath of the Mummy,36,,,,,Ormrod,Almuj,Wynn,Medium,Normal,128,16600
+Canyon Condor,38,,,,,Svin,Rymek,Wynn,Medium,Normal,640,21000
+Pirate's Trove,39,,,,,Damiral,Llevigar Port,Gavel,Medium,Normal,168,26000
+Tower of Ascension,40,,,,,Ankou,Tower of Ascension,Wynn,Long,Special,32768,925000 Max (see Tips)
+Ice Nations,40,,,,,Adigard,Icy Islands,Wynn,Medium,Normal,256,25000
+Heart of Llevigar,41,,,,,Zenam,Llevigar,Gavel,Long,Normal,224,24500
+Star Thief,42,,,,,Agent,Llevigar Plains,Gavel,Medium,Normal,256,40000
+Clearing the Camps,42,,,,,Captain Kymer,Llevigar Plains,Gavel,Short,Normal,320,23000
+Underice,43,,,,,Fredris,Nesaak,Wynn,Medium,Normal,128,34000
+Fate of the Fallen,43,,,,,Telvu,Ice Barrows,Wynn,Long,Dungeon,0,20000
+Blazing Retribution,44,,,,,Piere,Llevigar,Gavel,Medium,Normal,512,38000
+Bob's Lost Soul,45,,,,,Tarod,Nesaak,Wynn,Long,Normal,0,55000
+Wynn Excavation Site B,46,,,,,Excavator Lykron,Below path towards Haunted Mansion,Wynn,Medium,Normal,1536,50000
+Frost Bite,48,,,,,Eppo,Ice Canyon,Wynn,Long,Normal,640,61000
+The House of Twain,49,,,,,Twendle,The House of Twain,Wynn,Short,Normal,4096,45000
+Rise of the Quartron,49,15,,,,Manager Nasea,Karoc Quarry,Gavel,Long,Normal,1408,75000
+An Iron Heart Part I,49,,,,,Duvale,Llevigar Plains,Gavel,Medium,Normal,128,42000
+A Grave Mistake,50,,,,,Alem,The House of Twain,Wynn,Medium,Event,640,66666
+The Maiden Tower,51,,,,,Sherk,Olux Swamp,Gavel,Medium,Normal,640,77500
+Corrupted Betrayal,52,,,,,Slykaar,Undergrowth Ruins,Wynn,Long,Dungeon,1024,87725
+Jungle Fever,52,,,,,Worid,Jungle,Wynn,Medium,Normal,4096,86250
+Crop Failure,52,,,20,,Anast,Olux,Gavel,Medium,Normal,640,57500
+Master Piece,53,,,,,Caissop,Olux Swamp,Gavel,Medium,Normal,0,85000
+Death Whistle,53,,,,,Voer,Olux Swamp,Gavel,Medium,Normal,,95000
+Realm of Light I - The Worm Holes,54,,,,,Malo,Olux Swamp,Gavel,Medium,Normal,768,100000
+The Shadow of the Beast,54,20,20,,20,Dereg,Olux Swamp,Gavel,Long,Normal,512,140000
+WynnExcavation Site C,55,,,,,Excavator Placardus,Volcanic Island,Ocean,Long,Normal,0,150000
+Zhight Island,55,,,,,Zhight,Zhight Island,Ocean,Medium,Normal,0,95000
+The Passage,57,,,,,Wirt,Troms,Wynn,Short,Normal,256,140000
+An Iron Heart Part II,58,,,,,Detective Hart,Olux Swamp,Gavel,Long,Normal,512 / 768,160000
+The Order of the Grook,59,,,,,Seasum,Mage Island,Ocean,Long,Normal,0,242500
+Beneath the Depths,60,,,,,Javier,Pirate Cove,Ocean,Medium,Normal,1,185000
+Redbeard's Booty,61,,,,,Marston,Galleon's Graveyard,Ocean,Medium,Dungeon,0,180000
+Reclaiming the House,61,,,,,Elphaba,Olux Swamp,Gavel,Long,Normal,1024,250000
+Lost in the Jungle,62,,,,,Gracen,Jungle Village,Wynn,Medium,Normal,0,225000
+Realm of Light II - Taproot,62,,,,,Lari,Dark Forest,Gavel,Long,Normal,1600,275000
+Out of My Mind,63,,,,,Prentiss,Troms,Wynn,Medium,Normal,1024,300000
+Realm of Light III - A Headless History,64,,,,,Hans,Dark Forest,Gavel,Long,Normal,0,385000
+Lost Royalty,65,,,,,Yavlis,Troms,Wynn,Medium,Normal,2048,290000
+Lost Soles,66,,,,,Ferndor,Dernel Jungle,Wynn,Long,Normal,1152,352000
+Memory Paranoia,67,,,,,Atisun,Caritat Mansion,Gavel,Long,Normal,1536,375000
+From the Mountains,67,,,,,Arnod,Pre-Light Forest,Gavel,Long,Normal,0,390000
+Temple of the Legends,68,,,,,Kelight,Temple of the Legends,Wynn,Long,Normal,0,550000
+Grand Youth,69,,,,,Monte,Dernel Jungle,Wynn,Medium,Normal,1024,425000
+Lazarus Pit,69,,,,,Burtur,Gelibord,Gavel,Long,Normal,1024,500000
+Haven Antiquity,70,,,,,Cinfras,Dead Island,Ocean,Medium,Normal,1048,300000
+WynnExcavation Site D,70,,,,,Royal Advisor Carlos,Troms,Wynn,Long,Normal,16384,600000
+Shattered Minds,70,,,,,Likeru,Efilim,Gavel,Long,Normal,2560,300000
+Realm of Light IV - Finding the Light,71,,,,,Lari,Light Forest,Gavel,Long,Normal,0,675000
+Lexdale Witch Trials,72,,,,,[[The Mayor]],Lexdale,Gavel,Long,Normal,4096,650000
+Forbidden Prison,72,,,,,Merchant,Forbidden Prison,Gavel,Long,Normal,0,740000
+Troubled Tribesmen,73,,,,,Ka L'argwit,Dernel Jungle,Wynn,Medium,Normal,2048,500000
+Murder Mystery,73,,,,,Captain Lorias,Cinfras Suburbs,Gavel,Medium,Normal,3072,350000
+Reincarnation,74,,,,,Batelu,Bob's Tomb,Wynn,Long,Normal,0,750000
+Aldorei's Secret Part I,74,,,,,Elf Guard,Aldorei Valley,Gavel,Long,Normal,0 / 8192,512500
+Acquiring Credentials,74,,,,,Doan,Letvus Airbase,Gavel,Long,Normal,768,300000
+Flight in Distress,75,,,,,Passenger Controllant,Letvus Airbase,Gavel,Long,Normal,0,750000
+The Ultimate Weapon,75,,,,,Dodegar Bandysnoot,Light Forest,Gavel,Medium,Normal,0,450000
+The Bigger Picture,76,,,,,Psilo,Mushroom Village,Gavel,Medium,Normal,1920,500000
+Purple and Blue,77,,,,,Korun,Gylia Plains,Gavel,Long,Normal,2048,500000
+The Hunger of Gerts Part 1,77,,,,,Cikal,Gylia Plains,Gavel,Long,Normal,4864,675000
+Aldorei's Secret Part II,78,,,,,Legolus,Aldorei Town,Gavel,Long,Normal,10240 / 0,450000
+The Hunger of Gerts Part 2,78,,,,,Gerten Chief Lobo,Gylia Plains,Gavel,Long,Normal,0,730000
+Fallen Delivery,79,,,,,Bricot,Gylia Plains,Gavel,Long,Normal,2048,1300000
+Realm of Light V - The Realm of Light,79,,,,,Lari,The Realm of Light,Gavel,Long,Normal,0,1300000
+The Qira Hive,80,,,,,Yansur,The Qira Hive,Gavel,Long,Special,0,6250000 Max (see Tips)
+General's Orders,80,,,,,Private Tylas,Canyon of the Lost,Gavel,Long,Normal,0,1300000
+From the Bottom,80,,,,,Nakoba,Thanos Bazaar,Gavel,Long,Normal,4096,700000
+???,80,,,,,???,Gavel,Gavel,Medium,Normal,6144,1400000
+The Thanos Vaults,81,,,,,Dolem,Thanos,Gavel,Medium,Normal,4096,775000
+The Belly of the Beast,82,,,,,King Burtan,Thanos/Ozoth's Spire,Gavel,Medium,Normal,2048,1250000
+A Marauder's Dues,83,,,,,Norsten,Canyon of the Lost,Gavel,Medium,Normal,8192,1375000
+The Envoy Part I,83,,,,,Olivin,"Selchar, Corkus Province",Ocean,Long,Normal,9152,1750000
+The Canyon Guides,84,,,,,Gana,The entrance of Bantisu Air Temple,Gavel,Medium,Normal,2048,1450000
+The Canary Calls,85,,,,,Grenot,Thesead mines,Gavel,Medium,Normal,2048,1575000
+The Lost,85,,,,,Dejol,Canyon of the Lost,Gavel,Medium,Normal,2048,1575000
+Cowfusion,86,,,,,Ranol,Canyon of the Lost,Gavel,Long,Normal,4096,2300000
+Desperate Metal,86,,,,,Phinas,Corkus Shore,Corkus,Medium,Normal,2048,1580000
+Beyond the Grave,87,,,,,Irlok,Canyon of the Lost,Gavel,Medium,Normal,8192,2100000
+Mixed Feelings,87,,,,,Javen,Corkus Docks,Corkus,Long,Normal,2048,1750000
+The Hidden City,88,,,,,Narder,Thesead,Gavel,Long,Normal,4096,2700000
+The Envoy Part II,89,,,,,Security Bot N4T17,Corkus City,Corkus,Long,Dungeon,0,3050000
+Enter the Dojo,89,,,,,Sensei Miyagi,Sakura Dojo,Gavel,Long,Normal,0,2900000
+Fantastic Voyage,90,,,,,Relend,Jofash Docks,Ocean,Long,Normal,6144,3100000
+Dwarves and Doguns Part I,91,,,,,Lozeg,Rodoroc,Gavel,Long,Normal,0,3300000
+The Feathers Fly Part I,91,,,,,Ava,Avos Territory,Corkus,Long,Normal,0,2900000
+Dwarves and Doguns Part II,92,,,,,Dogun Chieftain,Dogun's Retreat,Gavel,Long,Normal,0,3500000
+The Feathers Fly Part II,93,,,,,Ava,Corkus City,Corkus,Long,Normal,12288,3300000
+Dwarves and Doguns Part III,93,,,,,Korzim,Molten Heights,Gavel,Long,Normal,0,4000000
+Dwarves and Doguns Part IV,94,,,,,Korzim,Molten Heights,Gavel,Long,Normal,20480,6000000
+One Thousand Meters Under,95,,,,,Help Wanted,Ahmsord,Gavel,Long,Normal,8192,5500000
+Recipe For Disaster,96,,,,,Chef Hamsey,Ahmsord,Gavel,Medium,Normal,4096,4200000
+The Fortuneteller,97,,,,,Jill,Kandon-Beda,Gavel,Medium,Normal,0,3900000
+Royal Trials,98,,,,,Skyraider Guard,Sky Islands,Gavel,Long,Normal,4096,7270000
+The Hero of Gavel,99,,,,,Scavenger Hunt Collector,Ahmsord,Gavel,Long,Normal,20480,5500000
+The Olmic Rune,100,,,,,Abandoned Drill,Olmic Ruined City,Silent Expanse,Medium,Normal,0,5800000
+A Journey Beyond,100,,,,,Elphaba,Detlas,Wynn,Long,Normal,12288,6000000
+A Journey Further,101,,,,,Aledar,Lutho,Silent Expanse,Long,Dungeon,20480,7500000
+Point of No Return,102,,,,,Lutho Citizen,Lutho,Silent Expanse,Long,Normal,8192,7000000
+A Hunter's Calling,103,,,,,??? (A Hunter's Calling),Portal to Dern,Silent Expanse,Long,Normal,0,10008000
