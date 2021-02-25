@@ -47,13 +47,20 @@ public class App {
     }*/
 
 
-    while
+    while(full.hasNextLine()){
+        String wikiString = full.nextLine();
+        String[] strParts2 = wikiString.split(",");
+    }
+
+    ArrayList<String> wikiArray = 
+        new ArrayList<String>( Arrays.asList(strParts2) );
 
     ArrayList<String> undoneQuests = new ArrayList<>();
 
     for(int i = 0; i < wikiArray.size(); i++){
         if(!completedQuests.contains(wikiArray.get(i))){
-            undoneQuests.add(wikiArray.get(i));
+            if(Integer.valueOf(wikiArray.get(i+1)) >= level){
+            undoneQuests.add(wikiArray.get(i)+","+ wikiArray.get(i));}
 
         }
 
